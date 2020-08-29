@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DynamicItem.qml</file>
+        <file>img_background/40679174_2226673147570438_3970761144200593408_o.jpg</file>
+    </qresource>
+</RCC>
